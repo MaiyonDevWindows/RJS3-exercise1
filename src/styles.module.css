@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    display: flex;
+}
+.SideBar{
+    width: 30%;
+    height: 800px;
+    background-color: blue;
+}
+.Content{
+    width: 70%;
+    height: 800px;
+    background-color: red;
+}
